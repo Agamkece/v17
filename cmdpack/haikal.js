@@ -42,7 +42,7 @@ var mess = JSON.parse(fs.readFileSync('./cmdpack/setting/mess.json'))
 
 ownernum = setting.6285892696324
 botname = setting.GAMBOTZ
-ownername = setting.Agam Store
+ownername = setting.AgamStore
 humankey = Apikeynya.humankey
 
 //--------- Bagian Export Modules --------------------------------\
