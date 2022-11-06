@@ -340,7 +340,7 @@ var menunya = `
 
 
 *Info Bot* :
-🌐 Base : Agam
+🌐 Base : Haikal
 💌 Creator : Haikal
 👻 Nama Bot : ${botname}
 🌀 Nama Owner : ${ownername}
