@@ -40,9 +40,9 @@ var mess = JSON.parse(fs.readFileSync('./cmdpack/setting/mess.json'))
 
 //-------- Bagian Setting Folder ------------------------\
 
-ownernum = setting.ownernum
-botname = setting.botname
-ownername = setting.ownername
+ownernum = setting.6285892696324
+botname = setting.GAMBOTZ
+ownername = setting.Agam Store
 humankey = Apikeynya.humankey
 
 //--------- Bagian Export Modules --------------------------------\
@@ -340,7 +340,7 @@ var menunya = `
 
 
 *Info Bot* :
-🌐 Base : Haikal
+🌐 Base : Agam
 💌 Creator : Haikal
 👻 Nama Bot : ${botname}
 🌀 Nama Owner : ${ownername}
